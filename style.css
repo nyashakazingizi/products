@@ -47,6 +47,11 @@ body {
 
 .button:hover {
     transform: scale(1.03);
+    background-color: rgb(12, 196, 12);
+}
+
+.button:active {
+    background-color: rgb(220, 232, 220);
 }
 
 ul {
